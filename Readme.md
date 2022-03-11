@@ -10,7 +10,7 @@
 
 `ecp_plot_timeseries_config.py` : To plot the global timeseries of a variable (includes rolling mean).
 
-`ssa.py` : Contains the functions to calculate trend, seasonaality, and anomalies using the SSA method.
+`ssa.py` : Contains the functions to calculate trend, seasonality, and anomalies using the SSA method.
 
 `ecp_decompose_mpi.py` : The time series decomposition is carried out by the SSA. Removing trend and MAC from timeseries yields anomalies of the variable.  (Can be run parallel!)
 
