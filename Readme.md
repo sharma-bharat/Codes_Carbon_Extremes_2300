@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/413554760.svg)](https://zenodo.org/badge/latestdoi/413554760)
 
 # Description of the python codes.
-## The codes will help you to detect extremes 
+## The codes will help you to detect extremes and attribute to compound climate drivers.
 ## The short description of the code describes the aim of the code, more information is within the file.
 
 `convert_fluxC_to_gC.py` : To convert/calculate the gC/month from g/sq.m/s; system arguments take into consideration the model configuration and variable.
